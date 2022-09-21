@@ -1,0 +1,10 @@
+Employee{name='Alejandro', age=34, salary=20000}
+Employee{name='Anne', age=25, salary=18000}
+Employee{name='James', age=36, salary=15000}
+Employee{name='Michael', age=30, salary=20000}
+Employee{name='Robert', age=25, salary=10000}
+Employee{name='Lucy', age=39, salary=20000}
+Employee{name='Jess', age=20, salary=20000}
+Employee{name='Johan', age=23, salary=13000}
+Employee{name='Mery', age=20, salary=12000}
+Employee{name='Janny', age=19, salary=8000}
